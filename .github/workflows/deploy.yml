@@ -1,4 +1,4 @@
-name: Build & Deployyyy
+name: Build & Deployyyyy
 on:
   push:
     branches: [main]
